@@ -1,1 +1,1 @@
-This is a demo for empty repo.
+This is a test for git pull.
